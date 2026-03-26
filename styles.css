@@ -3,7 +3,7 @@
 }
 
 p {
-    background-color: aqua;
+    background-color: lightsteelblue;
 }
 
 nav {
@@ -12,11 +12,11 @@ nav {
 }
 
 h1 {
-    background-color: yellow;
+    background-color: lightgrey;
 }
 
 footer {
-    background-color: yellowgreen;
+    background-color: lightcoral;
 }
 
 div {
